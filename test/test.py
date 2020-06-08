@@ -15,12 +15,3 @@ def no_parameter():
 #4.定义无参数，无返回值的情况，无返回值的默认返回值为None
 def no_no():
     print(f"这个函数无参数，无返回值")
-
-if __name__ == "__main__":
-    print(have(1))
-    print()
-    print(have_no_return(1))
-    print()
-    print(no_parameter())
-    print()
-    print(no_no())
