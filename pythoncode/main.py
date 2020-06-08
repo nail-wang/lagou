@@ -1,4 +1,4 @@
-from test.test import *
+from test import *
 
 if __name__ == "__main__":
     print(have(1))
